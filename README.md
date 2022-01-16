@@ -1,4 +1,4 @@
-# Github Profile Mobile Viewer
+# Github Profile Mobile App
 
 The final part of this assignment involved creating a mobile application which would allow individuals to be able to navigate between the screens of profile player, a list of their public repositories, the individuals
 who they are following and the individuals that they are following. To get to the public repositories, one simply needs to click on the bolded text for the number of public repositories which will redirect the user to that page. Clicking on the text for the number of following or followers will re-direct the user to the list of 
